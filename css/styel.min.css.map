@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,CACD,CAAC,AAAA,OAAO,CACR,CAAC,AAAA,QAAQ,AAAC,CACR,OAAO,CAAE,CAAC,CACV,MAAM,CAAE,CAAC,CACT,UAAU,CAAE,UAAU,CACtB,SAAS,CAAE,IAAI,CAChB,AAED,AAAA,EAAE,CACF,EAAE,CACF,EAAE,CACF,EAAE,CACF,EAAE,CACF,EAAE,AAAC,CACD,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,MAAM,CACpB",
+    "sources": [
+        "../scss/styel.scss",
+        "../scss/_reset.scss"
+    ],
+    "names": [],
+    "file": "styel.min.css"
+}
