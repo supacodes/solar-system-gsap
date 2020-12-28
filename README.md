@@ -7,4 +7,5 @@
 ## Todo
 
 - [ ] Add favicon
+- [ ] Add preloader
 - [ ] Make website responsive
