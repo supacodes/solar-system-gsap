@@ -1,6 +1,8 @@
 # Solar System with GSAP
 
-<!-- ## Live Preview -->
+## Live Preview
+
+<https://solar-gsap.netlify.app>
 
 ## Todo
 
